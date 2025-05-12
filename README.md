@@ -1,4 +1,4 @@
-## Hi there!  Ny name is Andrii!
+## Hi there!  My name is Andrii!
 I'm a backend engineer, currently working with Node.js.
 
 I like learning algorithms, be focused on problem solving and developing in AWS cloud.
